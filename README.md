@@ -1,7 +1,7 @@
 ## Hi there! I'm Felipe 😄
 
-- 📕 I'm currently studying: ReactJS.
-- 💼 I work as a Front End Engineer (Freelancer).
+- 📕 I'm currently studying: Node.js and ReactJS.
+- 💼 I work as a Front End Developer (Freelancer).
 
 <div align="center">
   <a href="https://github.com/flpzow">
