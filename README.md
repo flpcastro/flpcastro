@@ -1,6 +1,6 @@
 ## Hi there! I'm Felipe 😄
 
-- 📕 I'm currently studying: Node.js and ReactJS.
+- 📕 I'm currently studying: Node.js.
 - 💼 I work as a Full Stack Developer.
 
 <div align="center">
