@@ -1,6 +1,6 @@
 ## Hi there! I'm Felipe 😄
 
-- 📕 I'm currently studying: Node.js.
+- 📕 I'm currently studying: iOS Development.
 - 💼 I work as a Full Stack Developer.
 
 <div align="center">
