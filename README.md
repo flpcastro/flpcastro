@@ -1,7 +1,7 @@
 ## Hi there! I'm Felipe 😄
 
 - 📕 I'm currently studying: iOS Development.
-- 💼 I work as a Full Stack Developer.
+- 💼 I work as a Software Developer.
 
 <div align="center">
   <a href="https://github.com/flpcastro">
