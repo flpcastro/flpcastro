@@ -23,9 +23,10 @@
   <img align="center" alt="Flp-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Flp-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-  
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=dracula) 
-  
+ 
+<div>
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=tokyonight) 
+</div>
 _____________________________________________________________________________________________________________________________________________________________ 
   
 <div>
