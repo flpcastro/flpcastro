@@ -24,9 +24,9 @@
   <img align="center" alt="Flp-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
  
-<div>
+
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=synthwave) 
-</div>
+
 _____________________________________________________________________________________________________________________________________________________________ 
   
 <div>
