@@ -25,7 +25,9 @@
 </div>
  
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=tokyonight) 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=tokyonight" />
+</div>
 
 _____________________________________________________________________________________________________________________________________________________________ 
   
