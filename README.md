@@ -25,7 +25,7 @@
 </div>
  
 
-<div style="margin-top: 12px">
+<div style="margin-top: 38px">
   <img src="https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=tokyonight" />
 </div>
 
