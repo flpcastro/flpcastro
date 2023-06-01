@@ -7,7 +7,7 @@
   <a href="https://github.com/flpcastro">
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Flp-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Flp-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Flp-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
@@ -23,6 +23,8 @@
   <img align="center" alt="Flp-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Flp-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+  
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=flpcastro&show_icons=true&theme=dracula) 
   
 _____________________________________________________________________________________________________________________________________________________________ 
   
