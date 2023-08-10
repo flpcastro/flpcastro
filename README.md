@@ -1,7 +1,6 @@
 ## Hi there! I'm Felipe 😄
 
-- 📕 I'm currently studying: Front-end and Mobile Development.
-- 💼 I work as a Software Developer at Kukac.
+• I am a software developer with around 1 year of professional experience and 2 years of experience in personal projects. Currently, I am in the third semester of my Bachelor's degree in Computer Science. I have a strong knowledge of JavaScript (React-Native, React.js and Node.js) and GoLang, using various frameworks and programming paradigms.
 
 <div align="center">
   <a href="https://github.com/flpcastro">
