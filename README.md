@@ -6,17 +6,9 @@
   <a href="https://github.com/flpcastro">
 </div>
   
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Flp-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Flp-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Flp-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"" />
-  <img align="center" alt="Flp-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
-  <img align="center" alt="Flp-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="Flp-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Flp-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Flp-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Flp-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+</div> -->
  <br>
 <div>
   <a href="https://github.com/flpcastro">
