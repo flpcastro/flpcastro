@@ -1,6 +1,6 @@
 ## Hi there! I'm Felipe 😄
 
-• I work as a software developer. Currently, I am in the forty semester of my Bachelor's degree in Computer Science. I have a strong knowledge of JavaScript (React-Native, React.js and Node.js) and GoLang, using various frameworks and programming paradigms and some DevOps tools (Docker, Kubernetes, Terraform, AWS).
+• I work as a software developer. Currently, I am in the forty semester of my Bachelor's degree in Computer Science. I have a strong knowledge of iOS Development, Javascript, Typescript and GoLang.
 
 <div align="center">
   <a href="https://github.com/flpcastro">
