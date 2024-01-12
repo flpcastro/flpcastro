@@ -1,6 +1,6 @@
 ## Hi there! I'm Felipe 😄
 
-• I work as a software developer. Currently, I am in the forty semester of my Bachelor's degree in Computer Science. I have a strong knowledge of Typescript, Javascript and GoLang.
+• I work as a software developer. Currently, I am in the fifth semester of my Bachelor's degree in Computer Science. I have a strong knowledge of Typescript, Javascript and GoLang.
 
 <div align="center">
   <a href="https://github.com/flpcastro">
