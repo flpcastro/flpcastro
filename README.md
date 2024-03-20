@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Curto</h1>
 <h3 align="center">A passionate Problem Solver and Software Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Kukac](https://kukac.com.br)
+- 🔭 I’m currently working on [TC]([https://kukac.com.br](https://tc.com.br/))
 
 - 🌱 I’m currently studying **Computer Science**
 
